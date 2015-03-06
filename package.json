@@ -20,6 +20,7 @@
     "hubot-nationalrail": "0.0.2",
     "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
+    "hubot-push": "^1.0.0",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
