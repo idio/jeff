@@ -38,6 +38,6 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "check": "npm search hubot-scripts | awk '{ print $1 }' | grep '^hubot-' | vim - -Rc ':vnew available.txt|set noro|windo diffthis'"
+    "check": "npm search hubot | awk '{ print $1 }' | grep '^hubot-' | vim - -Rc ':vnew available.txt|set noro|windo diffthis'"
   }
 }
