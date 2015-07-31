@@ -1,6 +1,6 @@
 {
   "name": "jeff",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "author": "Mal Graty <mal.graty@googlemail.com>",
   "description": "Jeff Bezos, idio's friendly concierge!",
@@ -35,7 +35,7 @@
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.12.x"
   },
   "scripts": {
     "check": "npm search hubot | awk '{ print $1 }' | grep '^hubot-' | vim - -Rc ':vnew available.txt|set noro|windo diffthis'"
