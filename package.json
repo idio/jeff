@@ -16,6 +16,7 @@
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
+    "hubot-hipchat": "^2.12.0",
     "hubot-horsify": "^1.1.0",
     "hubot-nationalrail": "0.0.2",
     "hubot-numberwang": "^0.2.0",
