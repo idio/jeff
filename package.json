@@ -32,6 +32,7 @@
     "hubot-sweet-ass": "0.0.1",
     "hubot-tube-status": "^0.1.2",
     "hubot-twitter-search": "^1.0.2",
+    "hubot-urban": "^1.0.0",
     "hubot-word-joiner": "https://github.com/mal/hubot-word-joiner/archive/feature/configurable-minimum.tar.gz",
     "hubot-xkcd-image": "^1.0.0",
     "hubot-youtube": "^0.1.2"
