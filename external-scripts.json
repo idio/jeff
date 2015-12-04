@@ -6,6 +6,7 @@
   "hubot-diagnostics",
   "hubot-forecast",
   "hubot-github-compare",
+  "hubot-giphy-gifme",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-help",
