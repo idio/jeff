@@ -19,7 +19,7 @@
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "^2.12.0",
     "hubot-horsify": "^1.1.0",
-    "hubot-idio": "https://github.com/idio/hubot-idio/archive/master.tar.gz",
+    "hubot-idio": "https://github.com/idio/hubot-idio/archive/fd023106a2b8750bbfa35a2a60bf4e2d0a60b6fe.tar.gz",
     "hubot-nationalrail": "0.0.2",
     "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
