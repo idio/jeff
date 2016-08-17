@@ -18,7 +18,7 @@
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "github:hipchat/hubot-hipchat#1dbf8d4e911673d2ec566452f4b1fc1e15b7edd4",
     "hubot-horsify": "^1.1.0",
-    "hubot-idio": "github:idio/hubot-idio#87091b55e0574b59069b5601f7420c2cd451d66a",
+    "hubot-idio": "github:idio/hubot-idio#273c920653c48396fd13e7bb66aab5cbebd0ada6",
     "hubot-nationalrail": "0.0.2",
     "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
