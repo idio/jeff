@@ -6,7 +6,6 @@
   "description": "Jeff Bezos, idio's friendly concierge!",
   "dependencies": {
     "hubot": "^2.11.4",
-    "hubot-business-cat": "^1.1.16",
     "hubot-calculator": "^0.4.0",
     "hubot-cheers": "^1.0.0",
     "hubot-devopsreactions": "0.0.2",
