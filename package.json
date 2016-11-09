@@ -18,7 +18,7 @@
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "github:hipchat/hubot-hipchat#1dbf8d4e911673d2ec566452f4b1fc1e15b7edd4",
     "hubot-horsify": "^1.1.0",
-    "hubot-idio": "github:idio/hubot-idio#273c920653c48396fd13e7bb66aab5cbebd0ada6",
+    "hubot-idio": "github:idio/hubot-idio#9f1434a7d34f4003479a0cf03e9ebd3176141e57",
     "hubot-nationalrail": "0.0.2",
     "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
@@ -33,7 +33,8 @@
     "hubot-tube-status": "^0.1.2",
     "hubot-urban": "^1.0.0",
     "hubot-xkcd-image": "^1.0.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "request": "2.74.0"
   },
   "engines": {
     "node": "0.12.x"
