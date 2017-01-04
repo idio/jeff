@@ -10,7 +10,6 @@
     "hubot-cheers": "^1.0.0",
     "hubot-devopsreactions": "0.0.2",
     "hubot-diagnostics": "0.0.1",
-    "hubot-forecast": "^0.2.0",
     "hubot-giphy-gifme": "^0.1.2",
     "hubot-github-compare": "^1.0.1",
     "hubot-google-images": "^0.2.6",
