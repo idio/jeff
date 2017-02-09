@@ -15,7 +15,7 @@
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "github:hipchat/hubot-hipchat#1dbf8d4e911673d2ec566452f4b1fc1e15b7edd4",
-    "hubot-idio": "github:idio/hubot-idio#6899aec84c3098db57abf57ea76955f6882fb6a8",
+    "hubot-idio": "github:idio/hubot-idio#0000048064a809813a8ef6dc7153faf5b32f3769",
     "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
     "hubot-qr": "0.0.2",
