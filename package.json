@@ -15,7 +15,7 @@
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "github:hipchat/hubot-hipchat#1dbf8d4e911673d2ec566452f4b1fc1e15b7edd4",
-    "hubot-idio": "github:idio/hubot-idio#0000048064a809813a8ef6dc7153faf5b32f3769",
+    "hubot-idio": "github:idio/hubot-idio#416c2ff0c4465f1184661ad62f823d47a986a969",
     "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
     "hubot-qr": "0.0.2",
@@ -25,13 +25,9 @@
     "hubot-shipit": "^0.1.2",
     "hubot-sweet-ass": "0.0.1",
     "hubot-urban": "^1.0.0",
-    "hubot-youtube": "^0.1.2",
-    "request": "2.74.0"
+    "hubot-youtube": "^0.1.2"
   },
   "engines": {
     "node": "0.12.x"
-  },
-  "scripts": {
-    "check": "npm search hubot | awk '{ print $1 }' | grep '^hubot-' | vim - -Rc ':vnew available.txt|set noro|windo diffthis'"
   }
 }
