@@ -6,26 +6,17 @@
   "description": "Jeff Bezos, idio's friendly concierge!",
   "dependencies": {
     "hubot": "^2.11.4",
-    "hubot-calculator": "^0.4.0",
-    "hubot-cheers": "^1.0.0",
-    "hubot-devopsreactions": "0.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-giphy-gifme": "^0.1.2",
     "hubot-google-images": "^0.2.6",
-    "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "github:hipchat/hubot-hipchat#1dbf8d4e911673d2ec566452f4b1fc1e15b7edd4",
     "hubot-idio": "github:idio/hubot-idio#2473b826e0c6133df046c12af7bff1485b6486e5",
-    "hubot-numberwang": "^0.2.0",
     "hubot-pugme": "^0.1.0",
-    "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
-    "hubot-standup-alarm": "0.1.0",
-    "hubot-sweet-ass": "0.0.1",
-    "hubot-urban": "^1.0.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-urban": "^1.0.0"
   },
   "engines": {
     "node": "0.12.x"
