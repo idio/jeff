@@ -7,8 +7,8 @@
   "dependencies": {
     "hubot": "^3.2.0",
     "hubot-slack": "^4.6.0",
-    "hubot-idio": "github:idio/hubot-idio#2473b826e0c6133df046c12af7bff1485b6486e5",
-    "hubot-redis-brain": "0.0.3",
+    "hubot-idio": "github:idio/hubot-idio#jeff_slack",
+    "hubot-redis-brain": "0.0.4",
     "hubot-scripts": "^2.17.2"
   },
   "engines": {
