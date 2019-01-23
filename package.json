@@ -1,18 +1,15 @@
 {
   "name": "jeff",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "author": "Mal Graty <mal.graty@googlemail.com>",
   "description": "Jeff Bezos, idio's friendly concierge!",
   "dependencies": {
-    "hubot": "^2.11.4",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.6",
-    "hubot-help": "^0.1.1",
+    "hubot": "^3.2.0",
     "hubot-slack": "^4.6.0",
     "hubot-idio": "github:idio/hubot-idio#2473b826e0c6133df046c12af7bff1485b6486e5",
     "hubot-redis-brain": "0.0.3",
-    "hubot-scripts": "^2.5.16"
+    "hubot-scripts": "^2.17.2"
   },
   "engines": {
     "node": "0.12.x"
