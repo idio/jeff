@@ -11,11 +11,8 @@
     "hubot-help": "^0.1.1",
     "hubot-slack": "^4.6.0",
     "hubot-idio": "github:idio/hubot-idio#2473b826e0c6133df046c12af7bff1485b6486e5",
-    "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
-    "hubot-rules": "^0.1.0",
-    "hubot-scripts": "^2.5.16",
-    "hubot-urban": "^1.0.0"
+    "hubot-scripts": "^2.5.16"
   },
   "engines": {
     "node": "0.12.x"

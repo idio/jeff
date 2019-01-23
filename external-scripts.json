@@ -3,8 +3,5 @@
   "hubot-google-images",
   "hubot-help",
   "hubot-idio",
-  "hubot-pugme",
-  "hubot-redis-brain",
-  "hubot-rules",
-  "hubot-urban"
+  "hubot-redis-brain"
 ]
