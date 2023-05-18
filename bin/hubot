@@ -4,5 +4,6 @@ set -e
 
 npm install --production
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
+export NODE_TLS_REJECT_UNAUTHORIZED=0
 
 exec node_modules/.bin/hubot --name "jeff" "$@"
